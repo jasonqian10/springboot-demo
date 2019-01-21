@@ -7,6 +7,8 @@ use idea run "DemoApplication.java"
 **prod run**  
 java -jar demo-service/target/demo-service-0.0.1-SNAPSHOT.jar
 
+###How to request 
+localhost:8081/hello/test?q=xxx
 
 ###modules  
 **demo-parent**  
